@@ -1,4 +1,5 @@
 ﻿#Contains test
+#JLS
 $profiles = get-childitem C:\users\jasonsa\desktop\profiles
 $users = @('jasonsa','troyh','alissah')
 foreach ($profile in $profiles)
